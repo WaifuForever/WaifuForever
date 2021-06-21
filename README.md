@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi, I'm Jojo 👋
+
+I'm 22 years old and I am a software developer.
+
+## Interests
+
+- NodeJs
+- Rest api
+- ReactJs
+
+## - 🔭 I’m currently working on ...
+- MangaReader webapplication (private)
+
+## Get in touch
+  - Email: sirjoandersonwf@gmail.com
+  - [Discord](https://discordapp.com/users/326055565803388928)
+
 
 <!--
 **WaifuForever/WaifuForever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
