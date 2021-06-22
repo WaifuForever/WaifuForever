@@ -9,7 +9,7 @@ I'm 22 years old and I am a software developer.
 - ReactJs
 
 ## - 🔭 I’m currently working on ...
-- MangaReader webapplication (private own project) im releasing it in no time!
+- MangaReader webapplication (own project) releasing it in no time!
 
 ## Get in touch
   - Email: sirjoandersonwf@gmail.com
