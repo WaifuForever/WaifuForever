@@ -4,12 +4,12 @@ I'm 22 years old and I am a software developer.
 
 <img align="right" width="300" src="https://i.imgur.com/GDHgdkq.gif" />
 
-```kotlin
+```javascript
 const WaifuForever = {
    knowledgement : "Software Developer studying since late 2017",
    primarySkillset : "BACKEND",
    aimingToBe : "Fullstack Developer",
-   iCanDoSomeStuffWith : ["Flutter", "ReactJs/Ts", "NodeJs/Ts", "Python", "Java"],
+   iCanDoSomeStuffWith : ["Flutter", "Java", "NodeJs/Ts", "Python", "ReactJs/Ts"],
    iAmReallyGoodAt : ["NodeJs/Ts", "ReactJs/Ts"]
 }
 ```
@@ -22,32 +22,26 @@ const WaifuForever = {
   <a href="https://reactjs.org">
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
   </a>
-</code>
-<code>
+
   <a href="https://nodejs.org/en/">
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   </a>
-</code>
-<code>
+
   <a href="https://mongoosejs.com">
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png">
   </a>
-</code>
-<code>
+
   <a href="https://www.javascript.com">
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   </a>
-</code>
-<code>
+
   <a href="https://www.typescriptlang.org">
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a>
-</code>
-<code>
+
   <a href="https://flutter.dev">
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
   </a>
-</code>  
-<code>
+
   <a href="https://dart.dev">
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
   </a>
@@ -62,7 +56,7 @@ const WaifuForever = {
 - MangaReader webapplication (own project) releasing it in no time!
 
 ## Get in touch
-  - Email: sirjoandersonwf@gmail.com
+  - sirjoandersonwf@gmail.com
   - [Discord](https://discordapp.com/users/326055565803388928)
   - about to start a youtube channel too...
 
