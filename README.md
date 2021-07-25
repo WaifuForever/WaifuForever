@@ -9,8 +9,6 @@ I'm 22 years old and I am a software developer.
 - ReactJs
 
 ## **GitHub Metrics**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaifuForever&theme=radical&show_icons=true) <br>
 ![WaifuForever](https://github-readme-stats.vercel.app/api/top-langs/?username=WaifuForever&hide=html&layout=compact&theme=radical)
 
 <br>
