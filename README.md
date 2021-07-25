@@ -46,7 +46,7 @@ const WaifuForever = {
   </a>
 </code>
 
-## 🥷 **On GitHub**
+## 🐈‍⬛ **On GitHub**
 ![WaifuForever](https://github-readme-stats.vercel.app/api/top-langs/?username=WaifuForever&hide=html&layout=compact&theme=radical)
 
 
