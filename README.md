@@ -14,7 +14,7 @@ I'm 22 years old and I am a software developer.
 <br>
 
 
-## - 🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 - MangaReader webapplication (own project) releasing it in no time!
 
 ## Get in touch
