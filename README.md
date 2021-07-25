@@ -46,7 +46,7 @@ const WaifuForever = {
   </a>
 </code>
 
-## 🐈‍⬛ **On GitHub**
+## 🥷 **On GitHub**
 ![WaifuForever](https://github-readme-stats.vercel.app/api/top-langs/?username=WaifuForever&hide=html&layout=compact&theme=radical)
 
 
@@ -54,7 +54,7 @@ const WaifuForever = {
 ## 🔭 I’m currently working on ...
 - MangaReader webapplication (own project) releasing it in no time!
 
-## 📧 Get in touch
+## 📭 Get in touch
   - sirjoandersonwf@gmail.com
   - [Discord](https://discordapp.com/users/326055565803388928)
   - about to start a youtube channel too...
