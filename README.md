@@ -2,7 +2,7 @@
 
 I'm 22 years old and I am a software developer.
 
-<img align="right" width="300" src="https://i.imgur.com/GDHgdkq.gif" />
+<img align="right" width="240" src="https://i.imgur.com/GDHgdkq.gif" />
 
 ```javascript
 const WaifuForever = {
@@ -46,7 +46,7 @@ const WaifuForever = {
   </a>
 </code>
 
-## 🐈‍⬛ **On GitHub**
+## 👁️ **On GitHub**
 ![WaifuForever](https://github-readme-stats.vercel.app/api/top-langs/?username=WaifuForever&hide=html&layout=compact&theme=radical)
 
 
