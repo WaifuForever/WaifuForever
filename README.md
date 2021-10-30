@@ -2,7 +2,7 @@
 
 I'm 22 years old and I am a software developer.
 
-<img align="right" width="240" src="https://i.imgur.com/GDHgdkq.gif" />
+<img align="right" width="250" src="https://i.imgur.com/w0lL8fM.gif" />
 
 ```javascript
 const WaifuForever = {
