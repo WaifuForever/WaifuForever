@@ -45,11 +45,11 @@ const WaifuForever = {
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
   </a>
 </code>
+   
+## <img src="https://user-images.githubusercontent.com/51978077/140575268-00817dcf-d9d4-41bf-8d49-a8572ad53956.png" width="30" height="30">**On GitHub**
 
-## 👁️ **On GitHub**
+
 ![WaifuForever](https://github-readme-stats.vercel.app/api/top-langs/?username=WaifuForever&hide=html&layout=compact&theme=radical)
-
-
 
 ## 🔭 I’m currently working on ...
 - MangaReader webapplication (own project) releasing it in no time!
