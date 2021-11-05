@@ -15,7 +15,7 @@ const WaifuForever = {
 ```
 
 
-## **💻 Languages and Frameworks**  
+## **💻 Languages, Libraries and Frameworks that I like**  
 
   <a href="https://reactjs.org">
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
@@ -23,10 +23,6 @@ const WaifuForever = {
 
   <a href="https://nodejs.org/en/">
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-  </a>
-
-  <a href="https://mongoosejs.com">
-    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png">
   </a>
 
   <a href="https://www.javascript.com">
@@ -43,21 +39,29 @@ const WaifuForever = {
   <a href="https://www.haskell.org">
     <img height="30" src="https://user-images.githubusercontent.com/51978077/140576766-ab399d4a-6903-4a8b-b2df-8184ed18f524.png">
   </a>
-
-
+  
+  <a href="https://mongoosejs.com">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png">
+  </a>
+  
+  <a href="https://github.com/jquense/yup">
+    <img height="30" src="https://avatars.githubusercontent.com/u/339286?v=4">
+  </a>
   
 
 ## <img src="https://user-images.githubusercontent.com/51978077/140576358-df33704e-b418-4036-a0a8-ed545f17acd6.png" style="width: 30px; height:30px; border-radius:10%"> **On GitHub**
 
 
-![WaifuForever](https://github-readme-stats.vercel.app/api/top-langs/?username=WaifuForever&hide=html&layout=compact&theme=radical)
-
+<div align="left" style="display: inline_block">
+  <a href="https://github.com/WaifuForever">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WaifuForever&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaifuForever&hide=html&layout=compact&theme=radical"/>
+</div>
+   
 ## 🔭 I’m currently working on ...
 - MangaReader webapplication (own project) releasing it in no time!
-
-## 🌱 I’m currently learning ...
-- Haskell and how using cardano/plutus environment
-- Jest
+- Studying Haskell and how using cardano/plutus environment
+- Studying Jest
 
 ## 📭 Get in touch
   - sirjoandersonwf@gmail.com
