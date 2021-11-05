@@ -64,7 +64,7 @@ const WaifuForever = {
    
 ## 🔭 I’m currently working on ...
 - MangaReader webapplication (own project) releasing it in no time!
-- Studying Haskell and how using cardano/plutus environment
+- Studying Haskell and how to use cardano/plutus environment
 - Studying Jest
 
 
