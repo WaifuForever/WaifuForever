@@ -78,7 +78,7 @@ const WaifuForever = {
   </a>
   
   <a href="https://www.reddit.com/user/Waifu_Forever">
-   <img src="https://toppng.com/uploads/preview/reddit-logo-reddit-icon-115628658968pe8utyxjt.png" style="width: 30px; height:30px; border-radius:10%"> 
+   <img src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" style="width: 30px; height:30px; border-radius:10%"> 
   </a>
   
   <a href="https://www.linkedin.com/in/joanderson-pereira-774371212/">
