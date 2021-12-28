@@ -9,7 +9,7 @@ const WaifuForever = {
    knowledgement : "Software Developer studying since late 2017",
    primarySkillset : "BACKEND",
    aimingToBe : "Fullstack Developer",
-   iCanDoSomeStuffWith : ["Flutter", "Java", "NodeJs/Ts", "Python", "ReactJs/Ts"],
+   iCanDoSomeStuffWith : ["Flutter", "Java", "Nestjs", "NodeJs/Ts", "Python", "ReactJs/Ts"],
    iAmReallyGoodAt : ["NodeJs/Ts", "ReactJs/Ts"]
 }
 ```
@@ -65,7 +65,8 @@ const WaifuForever = {
 ## 🔭 I’m currently working on ...
 - MangaReader webapplication (own project) releasing it in no time!
 - Studying Haskell and how to use cardano/plutus environment
-- Studying Jest
+- Studying Jest and Nestjs
+- Working to get Java below 20%
 
 
 ## 📭 Get in touch...
