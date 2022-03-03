@@ -1,15 +1,15 @@
 ### ☕ Hi, I'm Jojo 
 
-I'm 22 years old and I am a software developer.
+I'm 22 years old and I am a web developer.
 
 <img align="right" width="250" src="https://i.imgur.com/w0lL8fM.gif" />
 
 ```javascript
 const WaifuForever = {
-   knowledgement : "Software Developer studying since late 2017",
-   primarySkillset : "BACKEND",
+   knowledgement : "Self Taught Web Developer with 4 years on my back",
+   primarySkillset : ["BACKEND", "FRONTEND"],
    aimingToBe : "Fullstack Developer",
-   iCanDoSomeStuffWith : ["Flutter", "Java", "Nestjs", "NodeJs/Ts", "Python", "ReactJs/Ts"],
+   iCanDoSomeStuffWith : ["Flutter", "Java", "NestJs/Ts", "ExpressJs/Ts", "Python", "ReactJs/Ts"],
    iAmReallyGoodAt : ["NodeJs/Ts", "ReactJs/Ts"]
 }
 ```
@@ -63,10 +63,10 @@ const WaifuForever = {
 </div>
    
 ## 🔭 I’m currently working on ...
-- MangaReader webapplication (own project) releasing it in no time!
-- Studying Haskell and how to use cardano/plutus environment
-- Studying Jest and Nestjs
-- Working to get Java below 20%
+- Studying IPFS, Solidity, Haskell and how to use cardano/plutus environment.
+- Studying Grpc and microservices.
+- Studying React with Tailwind and some other stuff (I am nailing it 🔥🔥).
+- Working to get Java below 20%.
 
 
 ## 📭 Get in touch...
@@ -78,7 +78,7 @@ const WaifuForever = {
    <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" style="width: 30px; height:30px; border-radius:10%"> 
   </a>
   
-  <a href="https://www.reddit.com/user/Waifu_Forever">
+  <a href="https://www.reddit.com/user/Vjoidjo">
    <img src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" style="width: 30px; height:30px; border-radius:10%"> 
   </a>
   
@@ -86,8 +86,10 @@ const WaifuForever = {
    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width: 30px; height:30px; border-radius:10%"> 
   </a>
 
-   - 📹 about to start a youtube channel too B)
-
+ <a href="https://www.youtube.com/channel/UC2KCic3FxYaDy-R2HA8FebQ">
+   <img src="https://cdn-icons-png.flaticon.com/512/124/124015.png" style="width: 30px; height:30px; border-radius:10%"> 
+  </a>
+  
 <!--
 **WaifuForever/WaifuForever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
