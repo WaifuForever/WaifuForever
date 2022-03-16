@@ -63,9 +63,9 @@ const WaifuForever = {
 </div>
    
 ## 🔭 I’m currently working on ...
-- Studying IPFS, Solidity, Haskell and how to use cardano/plutus environment.
-- Studying Grpc and microservices.
-- Studying React with Tailwind and some other stuff (I am nailing it 🔥🔥).
+- Studying React Native and Flutter, dusting off a little.
+- Studying React with Tailwind and some other stuff.
+- Working on two projects that might get me a job.
 - Working to get Java below 20%.
 
 
