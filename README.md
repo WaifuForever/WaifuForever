@@ -7,9 +7,9 @@ I'm 22 years old and I am a web developer.
 ```javascript
 const WaifuForever = {
    knowledgement : "Self Taught Web Developer with 4 years on my back",
-   primarySkillset : ["BACKEND", "FRONTEND"],
-   aimingToBe : "Fullstack Developer",
-   iCanDoSomeStuffWith : ["Flutter", "Java", "NestJs/Ts", "ExpressJs/Ts", "Python", "ReactJs/Ts"],
+   aimingToBe : "The best I can be",
+   frontendSkills: ["Flutter", "ReactJs/Ts"],
+   backendSkills : ["ExpressJs/Ts", "Java", "FastifyJs/Ts", "NestJs/Ts", "Python", "ReactJs/Ts"],
    iAmReallyGoodAt : ["NodeJs/Ts", "ReactJs/Ts"]
 }
 ```
@@ -63,9 +63,9 @@ const WaifuForever = {
 </div>
    
 ## 🔭 I’m currently working on ...
-- Studying React Native and Flutter, dusting off a little.
-- Studying React with Tailwind and some other stuff.
-- Working on two projects that might get me a job.
+- Studying react-native and flutter, dusting off a little.
+- Studying haskell once again.
+- Dabbling with fastify and eager to learn something else.
 - Working to get Java below 20%.
 
 
