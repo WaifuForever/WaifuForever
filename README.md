@@ -2,17 +2,20 @@
 
 I'm 22 years old and I am a web developer.
 
-<img align="right" width="250" src="https://i.imgur.com/w0lL8fM.gif" />
+<div style="display: flex; flex-direction: column">
+   <img align="right" width="250" src="https://i.imgur.com/w0lL8fM.gif" />
 
-```javascript
-const WaifuForever = {
-   knowledgement : "Self Taught Web Developer with 4 years on my back",
-   aimingToBe : "The best I can be",
-   frontendSkills: ["Flutter", "ReactJs/Ts"],
-   backendSkills : ["ExpressJs/Ts", "Java", "FastifyJs/Ts", "NestJs/Ts", "Python", "ReactJs/Ts"],
-   iAmReallyGoodAt : ["NodeJs/Ts", "ReactJs/Ts"]
-}
-```
+   ```javascript
+   const WaifuForever = {
+      knowledgement : "Self Taught Web Developer with 4 years on my back",
+      aimingToBe : "The best I can be",
+      frontendSkills: ["Flutter", "ReactJs/Ts"],
+      backendSkills : ["ExpressJs/Ts", "Java", "FastifyJs/Ts", "NestJs/Ts", "Python", "ReactJs/Ts"],
+      iAmReallyGoodAt : ["NodeJs/Ts", "ReactJs/Ts"]
+   }
+   ```
+</div>
+
 
 
 ## **💻 I have an eye on...**  
