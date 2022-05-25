@@ -1,3 +1,15 @@
+
+<p align="center">
+  <a href="https://github.com/WaifuForever?tab=followers">
+    <img src="https://img.shields.io/github/followers/WaifuForever?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="https://www.reddit.com/user/Vjoidjo">
+    <img src="https://img.shields.io/reddit/user-karma/combined/Vjoidjo?label=Reddit&logo=Reddit&style=for-the-badge" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC2KCic3FxYaDy-R2HA8FebQ">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC2KCic3FxYaDy-R2HA8FebQ?label=youtube&logo=youtube&style=for-the-badge" />
+  </a>
+</p>
 <h3 align="center">
    ☕ Hi, I'm Jojo
 </h3>
@@ -85,39 +97,10 @@
 </p>
 
 
-## 📭 Get in touch...
-<p align="center">
-  <a href="https://cloudhq.net/s/5383496a9de502">
-   <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" style="width: 40px; height:40px; border-radius:10%"> 
-  </a>
-  
-  <a href="https://discordapp.com/users/326055565803388928">
-   <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" style="width: 40px; height:40px; border-radius:10%"> 
-  </a>
-  
-  <a href="https://www.reddit.com/user/Vjoidjo">
-   <img src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" style="width: 40px; height:40px; border-radius:10%"> 
-  </a>
-  
-  <a href="https://www.linkedin.com/in/joanderson-pereira-774371212/">
-   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width: 40px; height:40px; border-radius:10%"> 
-  </a>
+## 🥸 Support me
+   <h3 align="center">Do want to send me some love? Any help will make a huge impact in my life 🙌</h3>
+   
+   <h6 align="center">addr1q8fypjmsgn9v79v0qfj3a6v8hfls7vudes3y9jzts68ftzdnsa7ztrvqz3xfw2jd4rsltlqpvpcp5qu8adftgzgtm75qj4z5cr [ADA]</h6>
+   <h6 align="center">0x8c1357293087B2d0f1EE2EeE2aa5CF0A84bf42b2 [ETH]</h6>
+   <h6 align="center">Ak8dtbjZaf5byAXuJLeZfr4ZsRDzyBrftTiawMnDJtES [SOL]</h6>
 
- <a href="https://www.youtube.com/channel/UC2KCic3FxYaDy-R2HA8FebQ">
-   <img src="https://cdn-icons-png.flaticon.com/512/124/124015.png" style="width: 40px; height:40px; border-radius:10%"> 
-  </a>
-</p>
-<!--
-**WaifuForever/WaifuForever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
