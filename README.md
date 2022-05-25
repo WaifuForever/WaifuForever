@@ -71,13 +71,16 @@
 <h3 align="center">I’m currently working on ...</h3>
 
 <p align="center">
-  - Studying react-native and flutter, dusting off a little.<br>
-  - Studying haskell once again.<br>
-  - Dabbling with fastify and eager to learn something else.<br>
-  - Working to get Java below 20%.<br>
-  <strike>- Studying Fsharp.<br></strike>
-  <strike>- Diving in Solidity and Ethereum environment.<br></strike>
-  <strike>- Mastering Figma.<br></strike>
+  - Studying <i>react-native</i> and <i>flutter</i>, dusting off a little.<br>
+  - Studying <i>haskell</i> once again.<br>
+  - Dabbling with <i>fastify</i> and eager to learn something else.<br>
+  - Working to get <i>java</i> below 20%.<br>
+  <strike>- Studying <i>fsharp</i>.<br></strike>
+  <strike>- Giving <i>elm</i> a chance.<br></strike>
+  <strike>- Diving in <i>solidity</i> and <i>ethereum</i> environment.<br></strike>
+  <strike>- Mastering figma.<br></strike>
+  <strike>- Trying chakra-ui out.<br></strike>
+  <strike>- Getting a girlfriend.<br></strike>
   <strike>- Quitting college.<br></strike>
 </p>
 
