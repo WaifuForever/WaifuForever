@@ -83,6 +83,7 @@
 <h3 align="center">I’m currently working on ...</h3>
 
 <p align="center">
+  - Looking for a job
   - Studying <i>react-native</i> and <i>flutter</i>, dusting off a little.<br>
   - Studying <i>haskell</i> once again.<br>
   - Dabbling with <i>fastify</i> and eager to learn something else.<br>
