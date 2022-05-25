@@ -5,9 +5,9 @@
    I'm 22 years old and I am a web developer.
 </h4>
 
-<p align="left">
-   <img src="https://github.com/WaifuForever/WaifuForever/blob/main/stats.png" />
-   <img width="300" src="https://i.imgur.com/w0lL8fM.gif" />
+<p align="center">
+   <img width="520" src="https://github.com/WaifuForever/WaifuForever/blob/main/stats.png" />
+   <img width="280" src="https://i.imgur.com/w0lL8fM.gif" />
 </p>
 
 <h3 align="center">
