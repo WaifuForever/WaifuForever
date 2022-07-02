@@ -14,7 +14,7 @@
    ☕ Hi, I'm Jojo
 </h3>
 <h4 align="center">
-   I'm 22 years old and I am a web developer.
+   I'm 23 years old and I am a web developer.
 </h4>
 
 <p align="center">
@@ -80,16 +80,17 @@
    
 ## 
 
-<h3 align="center">I’m currently working on ...</h3>
+<h3 align="center">I’m currently ...</h3>
 
 <p align="center">
   - Looking for a job<br>
-  - Studying <i>react-native</i> and <i>flutter</i>, dusting off a little.<br>
+  - Working on my portfolio (no excuses this time).<br>
   - Studying <i>haskell</i> once again.<br>
+  - Giving <i>elm</i> a chance.<br>
+  - Inspired to try <i>vuejs</i>.<br>
   - Dabbling with <i>fastify</i> and eager to learn something else.<br>
   - Working to get <i>java</i> below 20%.<br>
   <strike>- Studying <i>fsharp</i>.<br></strike>
-  <strike>- Giving <i>elm</i> a chance.<br></strike>
   <strike>- Diving in <i>solidity</i> and <i>ethereum</i> environment.<br></strike>
   <strike>- Mastering figma.<br></strike>
   <strike>- Trying chakra-ui out.<br></strike>
